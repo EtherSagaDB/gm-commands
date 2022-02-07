@@ -123,6 +123,18 @@
 -------------------------------------
 #### Drop gold on ground
 ``d_c2scmd 20 <amount>``
+#### Invite player to party
+``d_c2scmd 27 <id>``
+#### Meditate
+``d_c2scmd 46``
+#### Open Self Shop
+``d_c2scmd 84``
+#### Initiate duel with a player
+``d_c2scmd 92 <id>``
+#### Take your hands? (Embrace)
+``d_c2scmd 95 <id>``
+#### View characters information
+``d_c2scmd 99 <id>``
 #### Change class
 ``d_c2scmd 1102 0 <id>``
 #### Gain gold relevant to the equation (level*100)
