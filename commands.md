@@ -155,6 +155,8 @@
 ``d_c2scmd 2016 <amount>``
 #### Makes target player spouse
 ``d_c2scmd 2020 <id or 0 for divorce>``
+#### Gain spirit by amount
+``d_c2scmd 4441 <amount>``
 #### Clears inventory
 ``d_c2scmd 4444``
 #### Spawns item by quantity on the ground
